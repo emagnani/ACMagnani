@@ -1,0 +1,36 @@
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\bin\Debug\Aceitera.exe.config
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\bin\Debug\Aceitera.exe
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\bin\Debug\Aceitera.pdb
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\bin\Debug\i3nRiqJSON.dll
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\bin\Debug\i3nRiqJSON.pdb
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\obj\Debug\Aceitera.csprojResolveAssemblyReference.cache
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\obj\Debug\Aceitera.Form1.resources
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\obj\Debug\Aceitera.Forms.Principal.frm_login.resources
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\obj\Debug\Aceitera.Forms.Principal.frm_mdi.resources
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\obj\Debug\Aceitera.Forms.Seguridad.frm_Menu_aplicacion.resources
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\obj\Debug\Aceitera.Forms.Seguridad.frm_Menu_Asignacion_permisos.resources
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\obj\Debug\Aceitera.Forms.Seguridad.frm_Menu_crear_permiso_rol.resources
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\obj\Debug\Aceitera.Properties.Resources.resources
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\obj\Debug\Aceitera.csproj.GenerateResource.Cache
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\obj\Debug\Aceitera.exe
+C:\Users\3nR\Documents\Visual Studio 2013\Projects\Aceitera\Aceitera\obj\Debug\Aceitera.pdb
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\bin\Debug\Aceitera.exe.config
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.exe
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.pdb
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\bin\Debug\Aceitera.exe
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\bin\Debug\Aceitera.pdb
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\bin\Debug\i3nRiqJSON.pdb
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.csprojResolveAssemblyReference.cache
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.Form1.resources
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.Forms.Principal.frm_login.resources
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.Forms.Principal.frm_mdi.resources
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.Forms.Seguridad.frm_Menu_aplicacion.resources
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.Forms.Seguridad.frm_Menu_Asignacion_permisos.resources
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.Forms.Seguridad.frm_Menu_crear_permiso_rol.resources
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.Properties.Resources.resources
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.csproj.GenerateResource.Cache
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.Forms.Areas.Comercial.beta1.resources
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.Forms.Areas.Comercial.beta2.resources
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.Forms.Areas.Comercial.beta3.resources
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.Forms.Areas.Comercial.frm_vehiculos.resources
+C:\Users\3nR\Documents\GitHub\ACMagnani\Desarrollo\Aceitera\obj\Debug\Aceitera.Forms.Areas.Comercial.frm_logistica_almacen.resources
